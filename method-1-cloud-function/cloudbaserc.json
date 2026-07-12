@@ -1,0 +1,30 @@
+{
+  "envId": "jymkjtools-study-d6eipek12446b18",
+  "version": "2.0",
+  "functions": [
+    {
+      "name": "ai-chat",
+      "config": {
+        "timeout": 60,
+        "runtime": "Nodejs16.13"
+      },
+      "handler": "index.main"
+    },
+    {
+      "name": "ai-image",
+      "config": {
+        "timeout": 120,
+        "runtime": "Nodejs16.13"
+      },
+      "handler": "index.main"
+    },
+    {
+      "name": "ai-page",
+      "config": {
+        "timeout": 30,
+        "runtime": "Nodejs16.13"
+      },
+      "handler": "index.main"
+    }
+  ]
+}

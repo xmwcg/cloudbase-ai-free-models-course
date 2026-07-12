@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="-apple-system,Segoe UI,Microsoft YaHei,sans-serif">
+  <rect width="900" height="520" fill="#f5f6f8"/>
+  <rect width="900" height="48" fill="#1f2533"/>
+  <text x="20" y="30" fill="#fff" font-size="16" font-weight="700">云开发 CloudBase 控制台</text>
+  <rect x="0" y="48" width="180" height="472" fill="#2a3142"/>
+  <text x="20" y="80" fill="#9fb0c8" font-size="13">概览</text>
+  <text x="20" y="110" fill="#9fb0c8" font-size="13">AI</text>
+  <text x="20" y="140" fill="#fff" font-size="14" font-weight="600">环境配置</text>
+  <text x="20" y="170" fill="#9fb0c8" font-size="13">API Key</text>
+  <rect x="200" y="72" width="680" height="430" rx="8" fill="#fff" stroke="#e3e7ee"/>
+  <text x="220" y="104" fill="#1f2533" font-size="18" font-weight="700">环境配置 · API Key</text>
+  <rect x="220" y="124" width="120" height="34" rx="6" fill="#2563eb"/>
+  <text x="252" y="146" fill="#fff" font-size="13">+ 创建密钥</text>
+  <rect x="220" y="176" width="640" height="60" rx="6" fill="#f8fafc" stroke="#e3e7ee"/>
+  <text x="236" y="200" fill="#667" font-size="12">API Key（仅创建时可见一次，请妥善保存）</text>
+  <text x="236" y="224" fill="#1f2533" font-size="13" font-family="monospace">tcb_api_************************a1b2c3</text>
+  <text x="220" y="270" fill="#94a3b8" font-size="12">用途：方式三-A 直连 API 网关（BaseURL + APIKey）时填入。</text>
+  <text x="220" y="300" fill="#94a3b8" font-size="12">方式三-B 云函数桥接 / 方式一·二 不需要此 Key（走服务端 SDK）。</text>
+  <text x="220" y="494" fill="#94a3b8" font-size="12">示意图：基于官方「控制台 → 环境配置 → API Key」重建。</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="-apple-system,Segoe UI,Microsoft YaHei,sans-serif">
+  <rect width="900" height="520" fill="#f5f6f8"/>
+  <rect width="900" height="48" fill="#1f2533"/>
+  <text x="20" y="30" fill="#fff" font-size="16" font-weight="700">云开发 CloudBase 控制台</text>
+  <text x="700" y="30" fill="#9fb0c8" font-size="12">jymkjtools-study-d6eipek12446b18</text>
+  <rect x="0" y="48" width="180" height="472" fill="#2a3142"/>
+  <text x="20" y="80" fill="#fff" font-size="14" font-weight="600">概览</text>
+  <text x="20" y="110" fill="#9fb0c8" font-size="13">环境管理</text>
+  <text x="20" y="140" fill="#9fb0c8" font-size="13">AI</text>
+  <text x="20" y="170" fill="#9fb0c8" font-size="13">数据库</text>
+  <text x="20" y="200" fill="#9fb0c8" font-size="13">云函数</text>
+  <text x="20" y="230" fill="#9fb0c8" font-size="13">静态网站托管</text>
+  <rect x="200" y="72" width="680" height="430" rx="8" fill="#fff" stroke="#e3e7ee"/>
+  <text x="220" y="104" fill="#1f2533" font-size="18" font-weight="700">环境概览</text>
+  <rect x="220" y="124" width="640" height="64" rx="6" fill="#eef4ff" stroke="#bcd4ff"/>
+  <text x="236" y="150" fill="#1f2533" font-size="13">环境 ID（ENV_ID）</text>
+  <text x="236" y="174" fill="#2563eb" font-size="15" font-weight="700" font-family="monospace">jymkjtools-study-d6eipek12446b18</text>
+  <rect x="220" y="204" width="200" height="70" rx="6" fill="#f8fafc" stroke="#e3e7ee"/>
+  <text x="236" y="230" fill="#667" font-size="12">套餐</text>
+  <text x="236" y="254" fill="#1f2533" font-size="15" font-weight="600">个人版（免费6个月）</text>
+  <rect x="440" y="204" width="200" height="70" rx="6" fill="#f8fafc" stroke="#e3e7ee"/>
+  <text x="456" y="230" fill="#667" font-size="12">状态</text>
+  <text x="456" y="254" fill="#16a34a" font-size="15" font-weight="600">● 正常</text>
+  <rect x="660" y="204" width="200" height="70" rx="6" fill="#fff7ed" stroke="#fcd9a8"/>
+  <text x="676" y="230" fill="#92400e" font-size="12">AI 资源包（小程序成长计划）</text>
+  <text x="676" y="254" fill="#b45309" font-size="13" font-weight="600">10亿Token / 10万张图</text>
+  <text x="220" y="320" fill="#94a3b8" font-size="12">示意图：基于官方「云开发控制台 → 概览」重建，用于教学。真实界面以控制台为准。</text>
+</svg>

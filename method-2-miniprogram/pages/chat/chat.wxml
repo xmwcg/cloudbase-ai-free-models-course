@@ -1,0 +1,23 @@
+<!-- 方式二：小程序聊天页结构 -->
+<view class="container">
+  <view class="messages">
+    <block wx:for="{{messages}}" wx:key="index">
+      <view class="msg {{item.role === 'user' ? 'user' : 'assistant'}}">
+        <text>{{item.content}}</text>
+      </view>
+    </block>
+  </view>
+
+  <view class="composer">
+    <input
+      class="input"
+      placeholder="输入消息，调用 hy3-preview 免费模型"
+      value="{{inputValue}}"
+      bindinput="onInput"
+      confirm-type="send"
+      bindconfirm="sendMessage"
+    />
+    <button size="mini" bindtap="sendMessage" loading="{{isLoading}}">发送</button>
+    <button size="mini" type="primary" bindtap="generateImage" loading="{{isLoading}}">生图</button>
+  </view>
+</view>

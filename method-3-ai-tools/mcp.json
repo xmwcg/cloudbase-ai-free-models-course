@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cloudbase": {
+      "command": "npx",
+      "args": ["@cloudbase/cloudbase-mcp@latest"],
+      "env": {
+        "INTEGRATION_IDE": "WorkBuddy",
+        "CLOUDBASE_ENV_ID": "jymkjtools-study-d6eipek12446b18",
+        "CLOUDBASE_API_KEY": "在此填入你的云开发环境 API Key（控制台 → 环境配置 → API Key）"
+      }
+    }
+  }
+}

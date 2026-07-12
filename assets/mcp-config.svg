@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="-apple-system,Segoe UI,Microsoft YaHei,sans-serif">
+  <rect width="900" height="520" fill="#f5f6f8"/>
+  <rect width="900" height="48" fill="#1f2533"/>
+  <text x="20" y="30" fill="#fff" font-size="16" font-weight="700">AI 编程工具（WorkBuddy / Cursor / CodeBuddy）· MCP 配置</text>
+  <rect x="40" y="80" width="820" height="400" rx="8" fill="#1e1e2e"/>
+  <text x="60" y="110" fill="#cdd6f4" font-size="13">~/.workbuddy/mcp.json  /  .cursor/mcp.json</text>
+  <text x="60" y="140" fill="#a6e3a1" font-size="13" font-family="monospace">{</text>
+  <text x="80" y="168" fill="#f38ba8" font-size="13" font-family="monospace">"mcpServers": {</text>
+  <text x="100" y="196" fill="#f38ba8" font-size="13" font-family="monospace">"cloudbase": {</text>
+  <text x="120" y="224" fill="#89b4fa" font-size="13" font-family="monospace">"command": "npx",</text>
+  <text x="120" y="252" fill="#89b4fa" font-size="13" font-family="monospace">"args": ["@cloudbase/cloudbase-mcp@latest"],</text>
+  <text x="120" y="280" fill="#89b4fa" font-size="13" font-family="monospace">"env": {</text>
+  <text x="140" y="308" fill="#f9e2af" font-size="13" font-family="monospace">"INTEGRATION_IDE": "WorkBuddy",</text>
+  <text x="140" y="336" fill="#f9e2af" font-size="13" font-family="monospace">"CLOUDBASE_ENV_ID": "jymkjtools-study-d6eipek12446b18",</text>
+  <text x="140" y="364" fill="#f9e2af" font-size="13" font-family="monospace">"CLOUDBASE_API_KEY": "&lt;你的Key&gt;"</text>
+  <text x="120" y="392" fill="#89b4fa" font-size="13" font-family="monospace">}</text>
+  <text x="100" y="420" fill="#f38ba8" font-size="13" font-family="monospace">}</text>
+  <text x="80" y="448" fill="#f38ba8" font-size="13" font-family="monospace">}</text>
+  <text x="60" y="476" fill="#a6e3a1" font-size="13" font-family="monospace">}</text>
+</svg>

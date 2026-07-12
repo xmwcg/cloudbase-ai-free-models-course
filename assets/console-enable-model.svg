@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="-apple-system,Segoe UI,Microsoft YaHei,sans-serif">
+  <rect width="900" height="520" fill="#f5f6f8"/>
+  <rect width="900" height="48" fill="#1f2533"/>
+  <text x="20" y="30" fill="#fff" font-size="16" font-weight="700">云开发 CloudBase 控制台</text>
+  <rect x="0" y="48" width="180" height="472" fill="#2a3142"/>
+  <text x="20" y="80" fill="#9fb0c8" font-size="13">概览</text>
+  <text x="20" y="110" fill="#fff" font-size="14" font-weight="600">AI</text>
+  <text x="20" y="140" fill="#9fb0c8" font-size="13">环境管理</text>
+  <rect x="200" y="72" width="680" height="430" rx="8" fill="#fff" stroke="#e3e7ee"/>
+  <text x="220" y="104" fill="#1f2533" font-size="18" font-weight="700">AI · 模型管理</text>
+  <rect x="220" y="120" width="120" height="30" rx="4" fill="#2563eb"/>
+  <text x="248" y="140" fill="#fff" font-size="12">生文模型</text>
+  <rect x="350" y="120" width="120" height="30" rx="4" fill="#eef2f7"/>
+  <text x="378" y="140" fill="#475" font-size="12">生图模型</text>
+  <g font-size="13">
+    <rect x="220" y="166" width="640" height="36" rx="4" fill="#eef4ff" stroke="#bcd4ff"/>
+    <text x="236" y="189" fill="#1f2533">☑ hy3-preview（混元指令模型 · 免费）</text>
+    <rect x="220" y="210" width="640" height="36" rx="4" fill="#eef4ff" stroke="#bcd4ff"/>
+    <text x="236" y="233" fill="#1f2533">☑ hy3（混元 · 免费）</text>
+    <rect x="220" y="254" width="640" height="36" rx="4" fill="#fff" stroke="#e3e7ee"/>
+    <text x="236" y="277" fill="#475">☐ deepseek-v4-flash（资源点套餐）</text>
+    <rect x="220" y="298" width="640" height="36" rx="4" fill="#fff" stroke="#e3e7ee"/>
+    <text x="236" y="321" fill="#475">☐ glm-5.1 / kimi-k2.6（资源点套餐）</text>
+  </g>
+  <text x="220" y="370" fill="#94a3b8" font-size="12">切到「生图模型」勾选：</text>
+  <rect x="220" y="382" width="640" height="36" rx="4" fill="#fff7ed" stroke="#fcd9a8"/>
+  <text x="236" y="405" fill="#b45309">☑ HY-Image-3.0-Plus-4090-Tob-v1.0（文生图 · 免费）</text>
+  <rect x="220" y="426" width="640" height="36" rx="4" fill="#fff7ed" stroke="#fcd9a8"/>
+  <text x="236" y="449" fill="#b45309">☑ HY-Image-v3.0-I2I-ToB-v1.0.1（图生图 · 免费）</text>
+  <text x="220" y="494" fill="#94a3b8" font-size="12">示意图：基于官方「控制台 → AI → 生文/生图模型」重建。未开启的模型调用会报错。</text>
+</svg>
